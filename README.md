@@ -31,3 +31,6 @@ Este proyecto analiza el catálogo nacional de estaciones del IDEAM utilizando P
 
 ## Aplicación Profesional
 Este análisis permite al IDEAM identificar zonas subrepresentadas, priorizar el mantenimiento de estaciones en zonas de difícil acceso y planificar futuras instalaciones basándose en la distribución geográfica actual.
+## Video de Presentación
+Puedes ver la explicación y demostración de este proyecto en el siguiente enlace:
+[Ver Video en Google Drive](https://drive.google.com/file/d/1CjIQh65QNA5JbUpipHT7IdGQRzYigU83/view?usp=sharing)
